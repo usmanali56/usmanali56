@@ -1,122 +1,71 @@
-👋 Hi, I'm Muhammad Usman
+# 👋 Hi, I'm Muhammad Usman
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━
+Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** with a strong foundation in **MongoDB, Express.js, React.js, and Node.js**. I love building clean, responsive, and scalable web applications — from pixel-perfect frontends to robust backend APIs.
 
+🔗 **Portfolio:** https://portfolio-chi-opal-97.vercel.app/  
+💼 **LinkedIn:** https://www.linkedin.com/in/muhammad-usman-ali-a0b91b373/  
+💻 **GitHub:** https://github.com/usmanali56  
 
-Welcome to my GitHub profile! I'm a passionate and experienced Full-Stack Website Developer with a strong foundation in the MERN stack, Wordpress Custom Development and Plugin development (MongoDB, Express.js, React.js,Next.js Node.js,Nest.js ,PHP,Python). I love solving complex problems, building scalable applications, and exploring the latest in web development.
+---
 
-🔗 Portfolio:https://portfolio-chi-opal-97.vercel.app/
+## 🌐 Projects & Live Links
 
-💼 LinkedIn:https://www.linkedin.com/in/muhammad-usman-1ba316374
+Here are some of my live projects:
 
-💻 GitHub:https://github.com/usmanali56
+- 🖥️ [Portfolio Website (v1)](https://portfolio-website-q9wp.vercel.app/) — [GitHub](https://github.com/theirhasnain-eng/portfolio-website)
+- 🖥️ [Portfolio Website (v2)](https://portfolio-chi-opal-97.vercel.app/) — [GitHub](https://github.com/usmanali56/Portfolio)
+- 🤖 [Smart Resume AI](https://smart-resume-ai-eta.vercel.app/) — [GitHub](https://github.com/theirhasnain-eng/smart-resume-ai)
 
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 🔧 What I Do
 
-🌐 Projects & Links
+### 💻 Frontend Development
+- Build responsive, modern UIs with **React.js**, **HTML**, **CSS**, **JavaScript**
+- Styling with **Tailwind CSS** and **Bootstrap**
+- Focus on clean design, performance, and user experience
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━
+### 🛠️ Backend Development
+- Build RESTful APIs with **Node.js** and **Express.js**
+- Database management with **MongoDB** and **Mongoose**
+- Authentication with **JWT** and secure session handling
 
-Here are some of my live projects and websites:
+### 🚀 Full-Stack MERN Projects
+- End-to-end web applications from frontend to backend
+- Deployment on **Vercel**, **Netlify**, and **Heroku**
+- Collaborative development using **Git** and **GitHub**
 
-Portfolio
-Food Delivery Website
-Ecommerce Website
-Weather application
-Smart Resume AI
-Othello game
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 🛠️ Tech Stack & Tools
 
-🔧 What I Do
+**Languages & Frameworks**  
+`JavaScript` `React.js` `Node.js` `Express.js` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap`
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━
+**Databases & APIs**  
+`MongoDB` `Mongoose` `REST APIs`
 
-🚀 Full-Stack Web Development
-Build fast, responsive, and dynamic websites & dashboards
-Design RESTful APIs and real-time applications
-End-to-end solutions using MongoDB, Express, React, Node
+**Tools & Platforms**  
+`Git` `GitHub` `VS Code` `Postman` `Vercel` `Netlify` `Figma` `Chrome DevTools`
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+**Currently Learning**  
+`TypeScript` `Next.js` `Docker`
 
-🔐 Web Security & Optimization
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 🎓 Education & Experience
 
-I specialize in implementing robust security practices to protect websites and applications from common threats, ensuring data integrity, user privacy, and compliance with industry standards.
+- 🎓 **BS Computer Science** — Thal University Bhakkar
+- 💼 **Frontend Developer** — CodesVista (4 months)
+- 📜 **MERN Stack Web Development** — NAVTTC Certified
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
-🛡️ Key Areas of Expertise:
-Authentication & Authorization
-━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 📈 GitHub Stats
 
-Secure login systems using JWT, OAuth 2.0, and bcrypt
-Role-based access control (RBAC)
-Session security and token expiration strategies
-Input Validation & Sanitization
+![Muhammad Usman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=usmanali56&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanali56&layout=compact&theme=tokyonight&hide_border=true)
 
-Protection against SQL Injection, NoSQL Injection, and XSS
-Using libraries like express-validator, DOMPurify
-HTTPS & Secure Headers
+---
 
-SSL certificate implementation and HTTP to HTTPS enforcement
-Using helmet.js for security headers like:
-Content-Security-Policy
-X-Frame-Options
-Strict-Transport-Security
-X-XSS-Protection
-Rate Limiting & Abuse Prevention
-
-Brute force attack prevention with express-rate-limit, csurf, and reCAPTCHA
-IP filtering, rate throttling, and login attempt restrictions
-File Upload Security
-
-File type validation, size limits, and storage segregation
-Prevention of malicious file uploads and remote code execution
-Vulnerability Scanning
-
-Regular audits with npm audit, OWASP ZAP, and Snyk
-Dependency tracking and patch management
-Monitoring & Backup
-
-Real-time threat monitoring with logs and alerts
-Automated data backups and disaster recovery planning
-
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🛠️ Tech Stack & Tools
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Languages & Frameworks
-JavaScript, TypeScript Node.js, React.js, Express.js, Next.js, PHP, HTML, CSS, Tailwind, CSS, Bootstrap
-
-Databases & APIs
-MongoDB Mongoose, Firebase, REST APIs, SQL
-
-Tools & Platforms
-Git GitHub, VS Code, Postman, Figma Vercel, Netlify
-
-Security & DevOps
-JWT OAuth, HTTPS, Cloudflare
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-📈 Projects In Progress
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🔧 Job Portal System
-🎨Learning Management System
-📡Online Booking System
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-⭐ Feel free to explore my repos, contribute, or get in touch for collaboration opportunities. I'm always open to exciting new projects!
-
-
-
-
+⭐ **Feel free to explore my repos, star projects you find useful, or reach out for collaboration — I'm always open to exciting new projects!**
