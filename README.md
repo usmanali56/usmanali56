@@ -12,9 +12,13 @@ Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** with a s
 
 Here are some of my live projects:
 
-- 🖥️ [Portfolio Website (v1)](https://portfolio-website-q9wp.vercel.app/) — [GitHub](https://github.com/theirhasnain-eng/portfolio-website)
 - 🖥️ [Portfolio Website (v2)](https://portfolio-chi-opal-97.vercel.app/) — [GitHub](https://github.com/usmanali56/Portfolio)
 - 🤖 [Smart Resume AI](https://smart-resume-ai-eta.vercel.app/) — [GitHub](https://github.com/theirhasnain-eng/smart-resume-ai)
+- 🃏 [9 Card Golf Game](https://9-card-golf-isd2.vercel.app/)
+- ♟️ [Nine Men's Morris Game](https://nine-men-s-morris-xi.vercel.app/)
+- 🛒 [E-Commerce Store (v1)](https://ecommerce-store-chi-jet.vercel.app/)
+- 🛍️ [E-Commerce Store (v2)](https://ecommerce-store-b2ev.vercel.app/)
+
 
 ---
 
