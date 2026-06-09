@@ -5,7 +5,7 @@
 
 Welcome to my GitHub profile! I'm a passionate and experienced Full-Stack Website Developer with a strong foundation in the MERN stack, Wordpress Custom Development and Plugin development (MongoDB, Express.js, React.js,Next.js Node.js,Nest.js ,PHP,Python). I love solving complex problems, building scalable applications, and exploring the latest in web development.
 
-🔗 Portfolio:portfolio-chi-opal-97.vercel.app
+🔗 Portfolio:https://portfolio-chi-opal-97.vercel.app/
 
 💼 LinkedIn:https://www.linkedin.com/in/muhammad-usman-1ba316374
 
@@ -114,6 +114,7 @@ JWT OAuth, HTTPS, Cloudflare
 📡Online Booking System
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
 ⭐ Feel free to explore my repos, contribute, or get in touch for collaboration opportunities. I'm always open to exciting new projects!
 
 
