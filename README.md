@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate and experienced Full-Stack Websit
 💻 GitHub:https://github.com/usmanali56
 
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🌐 Projects & Links
 
@@ -27,7 +27,7 @@ Weather application
 Smart Resume AI
 Othello game
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔧 What I Do
 
@@ -38,7 +38,7 @@ Build fast, responsive, and dynamic websites & dashboards
 Design RESTful APIs and real-time applications
 End-to-end solutions using MongoDB, Express, React, Node
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔐 Web Security & Optimization
 
@@ -46,7 +46,7 @@ End-to-end solutions using MongoDB, Express, React, Node
 
 I specialize in implementing robust security practices to protect websites and applications from common threats, ensuring data integrity, user privacy, and compliance with industry standards.
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🛡️ Key Areas of Expertise:
 Authentication & Authorization
@@ -85,7 +85,7 @@ Real-time threat monitoring with logs and alerts
 Automated data backups and disaster recovery planning
 
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🛠️ Tech Stack & Tools
 
@@ -103,7 +103,7 @@ Git GitHub, VS Code, Postman, Figma Vercel, Netlify
 Security & DevOps
 JWT OAuth, HTTPS, Cloudflare
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 📈 Projects In Progress
 
@@ -113,7 +113,7 @@ JWT OAuth, HTTPS, Cloudflare
 🎨Learning Management System
 📡Online Booking System
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ⭐ Feel free to explore my repos, contribute, or get in touch for collaboration opportunities. I'm always open to exciting new projects!
 
