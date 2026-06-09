@@ -6,11 +6,18 @@
 Welcome to my GitHub profile! I'm a passionate and experienced Full-Stack Website Developer with a strong foundation in the MERN stack, Wordpress Custom Development and Plugin development (MongoDB, Express.js, React.js,Next.js Node.js,Nest.js ,PHP,Python). I love solving complex problems, building scalable applications, and exploring the latest in web development.
 
 🔗 Portfolio:portfolio-chi-opal-97.vercel.app
+
 💼 LinkedIn:https://www.linkedin.com/in/muhammad-usman-1ba316374
+
 💻 GitHub:https://github.com/usmanali56
+
+
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
 🌐 Projects & Links
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 Here are some of my live projects and websites:
 
 Portfolio
@@ -21,20 +28,30 @@ Smart Resume AI
 Othello game
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
 🔧 What I Do
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🚀 Full-Stack Web Development
 Build fast, responsive, and dynamic websites & dashboards
 Design RESTful APIs and real-time applications
 End-to-end solutions using MongoDB, Express, React, Node
+
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
 🔐 Web Security & Optimization
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 I specialize in implementing robust security practices to protect websites and applications from common threats, ensuring data integrity, user privacy, and compliance with industry standards.
+
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
 🛡️ Key Areas of Expertise:
 Authentication & Authorization
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 Secure login systems using JWT, OAuth 2.0, and bcrypt
 Role-based access control (RBAC)
 Session security and token expiration strategies
@@ -69,8 +86,11 @@ Automated data backups and disaster recovery planning
 
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
 🛠️ Tech Stack & Tools
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 Languages & Frameworks
 JavaScript, TypeScript Node.js, React.js, Express.js, Next.js, PHP, HTML, CSS, Tailwind, CSS, Bootstrap
 
@@ -84,8 +104,11 @@ Security & DevOps
 JWT OAuth, HTTPS, Cloudflare
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
 📈 Projects In Progress
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🔧 Job Portal System
 🎨Learning Management System
 📡Online Booking System
