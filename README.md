@@ -57,14 +57,6 @@ Here are some of my live projects:
 
 ---
 
-## 🎓 Education & Experience
-
-- 🎓 **BS Computer Science** — Thal University Bhakkar
-- 💼 **Frontend Developer** — CodesVista (4 months)
-- 📜 **MERN Stack Web Development** — NAVTTC Certified
-
----
-
 ## 📈 GitHub Stats
 
 ![Muhammad Usman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=usmanali56&show_icons=true&theme=tokyonight&hide_border=true)
