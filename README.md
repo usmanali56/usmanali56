@@ -21,6 +21,7 @@ Here are some of my live projects:
 - https://shieldnet-smoky.vercel.app/
 - https://meridian-impact-react.vercel.app/
 - https://banking-management-system-cxmu.vercel.app/login
+- watch-store-delta-puce.vercel.app
 
 
 
