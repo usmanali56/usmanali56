@@ -22,7 +22,7 @@ Here are some of my live projects:
 - https://meridian-impact-react.vercel.app/
 - https://banking-management-system-cxmu.vercel.app/login
 - https://watch-store-delta-puce.vercel.app/
-- nexcent-three-lime.vercel.app
+- https://nexcent-three-lime.vercel.app/
 
 
 
