@@ -23,6 +23,8 @@ Here are some of my live projects:
 - https://banking-management-system-cxmu.vercel.app/login
 - https://watch-store-delta-puce.vercel.app/
 - https://nexcent-three-lime.vercel.app/
+- https://pizzahub-mauve.vercel.app/
+- https://watch-nine-zeta.vercel.app/
 
 
 
